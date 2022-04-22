@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    background-color: #F7F1E9;
+}
+.fooStyle img{
+    width: 32px;
+    height: 32px;
+    margin-top: -10px;
+}
+.fooStyle span{
+    font-size: 24px;
+    font-weight: bolder;
+}
+
+.menu ul li{
+    float: left;
+    font-size: 18px;
+    margin-top: 39px;
+    font-weight: 400;
+    font-style: normal;
+    line-height: 94.8%;
+    list-style-type: none;
+}
+.menu ul li a{
+    color: black;
+    margin: 0px 25px;
+    text-decoration: none;
+}
+
+.searching{
+    width: 270px;
+    padding: 7px;
+    border-radius: 18px;
+    background-color: white;
+}
+.search img{
+    margin-left: 10px;
+    
+}
+.search span{
+    margin: 0px 10px;
+    font-weight: bold;
+}
+
+.shopping span{
+    display: block;
+    color: white;
+    padding: 1px 1px;
+    border-radius: 50%;
+    text-align: center;
+    background-color: red;
+    margin: -40px 21px 0px 20px;
+}
+.fast h1{
+    float: right;
+    margin-top: 60px;
+    color: #FF7E00;
+    font-size: 125px;
+    line-height: 118.5px;
+}
+.food h2{
+    color: black;
+    font-size: 40px;
+    margin-top: 83px;
+    font-weight: bold;
+}
+
+.content p{
+    color: #7e6565;
+    margin: 16px 0px 36px 53px;
+}
+.button{
+    text-align: center;
+}
+.button p{
+    margin-left: 53px;
+    width: 125px;
+    color: white;
+    padding: 7px 16px;
+    border-radius: 20px;
+    background-color: black;
+}
+.video img{
+    float: right;
+    margin-top: -9px;
+}
+.watch span{
+    margin-left: -23px;
+    font-size: 21px;
+}   
+.top-image img{
+    width: 500px;
+    height: 450px;
+    margin-top: 35px;
+}
